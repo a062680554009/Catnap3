@@ -1,3 +1,5 @@
 {
-    "isButtonEnabled": false
+    "isButtonEnabled": true,
+    "moreGamesLink": "https://your-games-link.com",
+    "imageUrl": "https://raw.githubusercontent.com/your-username/UnityConfig/main/more-games.png"
 }
