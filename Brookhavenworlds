@@ -1,6 +1,6 @@
 {
     "worlds": {
-        "War World": "https://example.com/images/war_world.png",
+        "War World": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQZ6zHnYqqz0B-_1aq8wPayo1_bFn_CES3fqvITmR8aoHNm27Q5mXxF-aMHAWVQavmLZ4kBu2YnkCu5Xyk",
         "Lava World": "https://example.com/images/lava_world.png",
         "Parkour World": "https://example.com/images/parkour_world.png",
         "Survival World": "https://example.com/images/survival_world.png"
