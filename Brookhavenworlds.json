@@ -1,8 +1,6 @@
 {
-    "worlds": {
-        "War World": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQZ6zHnYqqz0B-_1aq8wPayo1_bFn_CES3fqvITmR8aoHNm27Q5mXxF-aMHAWVQavmLZ4kBu2YnkCu5Xyk",
-        "Lava World": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQZ6zHnYqqz0B-_1aq8wPayo1_bFn_CES3fqvITmR8aoHNm27Q5mXxF-aMHAWVQavmLZ4kBu2YnkCu5Xyk",
-        "Parkour World": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQZ6zHnYqqz0B-_1aq8wPayo1_bFn_CES3fqvITmR8aoHNm27Q5mXxF-aMHAWVQavmLZ4kBu2YnkCu5Xyk",
-        "Survival World": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQZ6zHnYqqz0B-_1aq8wPayo1_bFn_CES3fqvITmR8aoHNm27Q5mXxF-aMHAWVQavmLZ4kBu2YnkCu5Xyk"
-    }
+    "warWorld": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQZ6zHnYqqz0B-_1aq8wPayo1_bFn_CES3fqvITmR8aoHNm27Q5mXxF-aMHAWVQavmLZ4kBu2YnkCu5Xyk",
+    "lavaWorld": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQZ6zHnYqqz0B-_1aq8wPayo1_bFn_CES3fqvITmR8aoHNm27Q5mXxF-aMHAWVQavmLZ4kBu2YnkCu5Xyk",
+    "parkourWorld": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQZ6zHnYqqz0B-_1aq8wPayo1_bFn_CES3fqvITmR8aoHNm27Q5mXxF-aMHAWVQavmLZ4kBu2YnkCu5Xyk",
+    "survivalWorld": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQZ6zHnYqqz0B-_1aq8wPayo1_bFn_CES3fqvITmR8aoHNm27Q5mXxF-aMHAWVQavmLZ4kBu2YnkCu5Xyk"
 }
