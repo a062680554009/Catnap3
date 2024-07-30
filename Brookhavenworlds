@@ -1,0 +1,8 @@
+{
+    "worlds": {
+        "War World": "https://example.com/images/war_world.png",
+        "Lava World": "https://example.com/images/lava_world.png",
+        "Parkour World": "https://example.com/images/parkour_world.png",
+        "Survival World": "https://example.com/images/survival_world.png"
+    }
+}
