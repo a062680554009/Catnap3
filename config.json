@@ -3,6 +3,6 @@
   "imageUrl": "https://pbs.twimg.com/media/GXtrVUwWoAAvbbr?format=jpg&name=medium",
   "headline": "Doors Game",
   "description": "The Best Horror Game",
-  "isImageEnabled": false,
+  "isImageEnabled": true,
   "isAdditionalImageEnabled": true
 }
