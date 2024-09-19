@@ -1,8 +1,8 @@
 {
-  "moreGamesLink": "https://youtube.com",
+  "moreGamesLink": "https://apps.apple.com/us/app/doors-game/id6447543620",
   "imageUrl": "https://pbs.twimg.com/media/GXtrVUwWoAAvbbr?format=jpg&name=medium",
   "headline": "Doors Game",
   "description": "The Best Horror Game",
-  "isImageEnabled": true,
-  "isAdditionalImageEnabled": false
+  "isImageEnabled": false,
+  "isAdditionalImageEnabled": true
 }
