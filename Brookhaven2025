@@ -2,15 +2,11 @@
     "paywall": {
         "images": [
             "path/to/image1.png",
-            "path/to/image2.png",
-            "path/to/image3.png",
-            "path/to/image4.png"
+            "path/to/image2.png"
         ],
-        "buttons": [
-            { "id": "btn1", "enabled": true },
-            { "id": "btn2", "enabled": true },
-            { "id": "btn3", "enabled": true },
-            { "id": "btn4", "enabled": true }
-        ]
+        "button": {
+            "id": "btn1",
+            "enabled": false
+        }
     }
 }
