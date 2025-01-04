@@ -6,7 +6,7 @@
         ],
         "button": {
             "id": "btn1",
-            "enabled": true
+            "enabled": false
         }
     }
 }
