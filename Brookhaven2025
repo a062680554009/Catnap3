@@ -1,8 +1,8 @@
 {
     "paywall": {
         "images": [
-            "path/to/image1.png",
-            "path/to/image2.png"
+            "https://pbs.twimg.com/media/GgtiSJFXcAAKpSR?format=png",
+            "https://pbs.twimg.com/media/GgtiSJKXEAAqvgb?format=png"
         ],
         "button": {
             "id": "btn1",
