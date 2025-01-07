@@ -1,8 +1,8 @@
 {
   "paywall": {
     "images": [
-      "https://pbs.twing.com/media/6gt15JFXcAAKpSR?format=png",
-      "https://pbs.twing.com/media/6gt15JKXEA4qvgb?format=png"
+      "https://pbs.twimg.com/media/GgtiSJKXEAAqvgb?format=png&name=900x900",
+      "https://pbs.twimg.com/media/GgtiSJFXcAAKpSR?format=png&name=large"
     ],
     "button": {
       "id": "btn1",
