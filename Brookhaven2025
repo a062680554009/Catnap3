@@ -1,12 +1,12 @@
 {
-    "paywall": {
-        "images": [
-            "https://pbs.twimg.com/media/GgtiSJFXcAAKpSR?format=png",
-            "https://pbs.twimg.com/media/GgtiSJKXEAAqvgb?format=png"
-        ],
-        "button": {
-            "id": "btn1",
-            "enabled": false
-        }
+  "paywall": {
+    "images": [
+      "https://pbs.twing.com/media/6gt15JFXcAAKpSR?format=png",
+      "https://pbs.twing.com/media/6gt15JKXEA4qvgb?format=png"
+    ],
+    "button": {
+      "id": "btn1",
+      "enabled": false
     }
+  }
 }
